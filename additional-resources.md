@@ -12,6 +12,7 @@ nav_order: 10
 - [Toy Theatre Manipulatives](https://toytheater.com/category/teacher-tools/virtual-manipulatives/){:target="_blank"}
 - [National Library of Virtual Manipulatives](http://nlvm.usu.edu/){:target="_blank"}
 - [BrainCamp](https://www.brainingcamp.com/){:target="_blank"}
+- [Polypad by Amplify](https://polypad.amplify.com/p){:target="_blank"}
 
 ## Acknowledgements
 
