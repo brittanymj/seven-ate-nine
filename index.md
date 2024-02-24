@@ -35,4 +35,4 @@ At the end of this workshop, you will be able to:
 1. Identify the differences between manual coding and coding with qualitative coding software
 2. **MORE OBJECTIVES**
  
-[NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
+[NEXT STEP: Learning Design](learning-design.html){: .btn .btn-blue }
