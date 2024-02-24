@@ -26,7 +26,9 @@ This workshop is not an endorsement of Taguette; there are many options for qual
 - Passanges coded with different tags have the same colour in Taguette. 
 - Only basic analysis can be done in Taguette. External tools, like Microsoft Excel, can be used for more advanced analysis are covered in this workshop.
 
-## Learning objectives - UPDATE FOR THE NEW TOOL
+## Learning objectives related to BC Curriculum
+<img src="images/core-comptencies.jpg" style="width:300px;" alt="Core Competencies">
+<img src="images/curriculum.jpg" style="width:300px;" alt="Core Competencies">
 
 At the end of this workshop, you will be able to:
 
