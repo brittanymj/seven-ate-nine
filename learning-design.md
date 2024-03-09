@@ -3,7 +3,7 @@ layout: default
 title: Learning Design
 nav_order: 2
 ---
-## UPDATE BELOW: Learning Design
+## UPDATE BELOW: Station Design
 
             -  Then [download the Office installer here](https://portal.office.com){:target="_blank"}<br>
 
