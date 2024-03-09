@@ -1,17 +1,34 @@
 ---
 layout: default
-title: Activities Introduction
+title: Getting Ready 
 nav_order: 1
 parent: Workshop Activities
 ---
-# Hands-On Activities Introduction
+# Getting Ready 
 
-- **MAKE SURE to title the next and following activities** in the following format: "**1-Next Activity**" & "**2-Second Activity**".
-- **UPDATE LINKS** Please review the following [Introductory Slides](https://docs.google.com/presentation/d/1hjgyXWqlEb3NijemjMQwqBDszmIAMjI3TJn58lE0Mm8/edit#slide=id.g7d261d3503_1_0){:target="_blank"} or [Workshop Introduction Video](https://www.youtube.com/watch?v=0LHKWZ18UEc){:target="_blank"}
+- Once you have established your partnership, you are ready to start setting up for your stations. Here are the steps you will need to take to get prepared: 
+    - Assign roles of Tech-Teach and Math Teacher (this can change after each unit or stay consistent throughout the partnership)
+- Confirm days and times  
+    - For stations (2 x 30 mins is ideal)
+    - For collaboration (once a week – eg. At lunch, after/before school, prep-time, choice/catch-up time) 
+- Select and Gather materials
+    - One iPad per ¼ of students in class
+    - Number talk resource (in number talks are not in current math curriculum)
+    - Worksheets for current topic
+    - Math game resource
+    - Materials needed for games (ex. Playing cards, dice, dry-erase sheets and markers)
+    - Reflection worksheet (see example)
+    - Station weekly plan (see example)
+    - Physical manipulatives
+    - Select virtual manipulative sites (see choices) 
+- Prepare Students and Space 
+    - Divide students into 4 groups – assign each group a colour (or other label)
+    - Establish locations in classroom for each station (use physical labels/signs if needed)
+    - Introduce co-teacher and explain each teacher’s role
+    - Walk through each station with the class as a whole
+    - Remind/teach independence expectations (ex. not interrupting, staying on-task) 
 
-
-- Resize Your Laptop Screen for Workshop Handouts (2 min)<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Igk5hZUfzN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
 
 **UPDATE**
 [NEXT STEP: Excel Basics](basics-data-cleaning.html){: .btn .btn-blue }
