@@ -4,6 +4,7 @@ title: Learning Design
 nav_order: 2
 ---
 ## Station Design
+<img src="images/group-rotations.png" style="width:700px;" alt="Group Rotations">
 
 # iPad Station  
 
