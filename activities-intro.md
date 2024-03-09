@@ -2,7 +2,7 @@
 layout: default
 title: Getting Ready 
 nav_order: 1
-parent: Workshop Activities
+parent: Math Stations
 ---
 # Getting Ready 
 
