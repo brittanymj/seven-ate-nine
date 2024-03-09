@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Station Framework
+title: Math Stations
 nav_order: 3
 has_children: true
 has_toc: true
 ---
-# Station Framework
+# Math Stations
