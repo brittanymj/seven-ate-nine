@@ -6,13 +6,9 @@ nav_order: 1
 **UPDATE PHOTO**
 <img src="images/WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;" alt="image description">
 
-# WORKSHOP TITLE HERE (Use Regular Case Like this)
+# Elementary Math Station Framework: Co-Teaching Number Talks with Virtual Manipulatives 
 
-- Pre-workshop activities: 00 min 
-- Introductory presentation: 00 min
-- Hands-on activities: 00-00 min
-
-## Why TOOL NAME HERE? 
+## iPads and Virtual Manipulatives ? 
 
 [TOOL NAME](https://TOOL-URL-HERE.org/){:target="_blank"} Desribe the tool and how it can be used. This is an example of the description for Taguette:
 
@@ -30,7 +26,7 @@ This workshop is not an endorsement of Taguette; there are many options for qual
 <img src="images/core-competencies.jpg" style="width:700px;" alt="Core Competencies"><br>
 <img src="images/curriculum.jpg" style="width:700px;" alt="Core Competencies">
 
-At the end of this workshop, you will be able to:
+At the end of this lesson, students should be able to:
 
 1. Identify the differences between manual coding and coding with qualitative coding software
 2. **MORE OBJECTIVES**
