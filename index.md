@@ -15,7 +15,7 @@ The goal of this framework is for a classroom teacher and an inclusive education
 - Game Station: non-tech hands on partner game.
 - Paperwork Station: worksheet or puzzle connected to current math unit.
 
-(BRITTANY CREATES VISUAL)
+<img src="images/stations.png" style="width:700px;" alt="Stations"><br>
 
 ## Learning objectives related to BC Curriculum
 <img src="images/core-competencies.jpg" style="width:700px;" alt="Core Competencies"><br>
