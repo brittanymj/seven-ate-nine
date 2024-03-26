@@ -4,6 +4,7 @@ title: Additional Resources
 nav_order: 10
 ---
 # Additional Resources & Acknowledgements
+- [Google Drive to all our resources created, including full Learning Design, Litterature Review and Presentation](https://drive.google.com/drive/folders/1-HhCuCr8roR5FFvCXLZRLb0e6DsduUDn?usp=drive_link){:target="_blank"}
 
 ## Our suggested Virtual Manipulative
 - [Polypad by Amplify](https://polypad.amplify.com/p){:target="_blank"} 
