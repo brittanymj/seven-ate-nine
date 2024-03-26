@@ -29,7 +29,5 @@ parent: Math Stations
     - Walk through each station with the class as a whole
     - Remind/teach independence expectations (ex. not interrupting, staying on-task) 
 
- 
 
-**UPDATE**
-[NEXT STEP: Excel Basics](basics-data-cleaning.html){: .btn .btn-blue }
+[NEXT STEP: iPad Station](1-ipad-station.html){: .btn .btn-blue }
