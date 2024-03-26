@@ -28,5 +28,4 @@ parent: Math Stations
     - Introduce co-teacher and explain each teacher’s role
     - Walk through each station with the class as a whole
     - Remind/teach independence expectations (ex. not interrupting, staying on-task) 
-
 [NEXT STEP: iPad Station](1-ipad-station.html){: .btn .btn-blue }
