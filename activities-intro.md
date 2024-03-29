@@ -14,7 +14,7 @@ parent: Math Stations
     - For collaboration (once a week – eg. At lunch, after/before school, prep-time, choice/catch-up time) 
 - Select and Gather materials
     - One iPad per ¼ of students in class
-    - Number talk resource (in number talks are not in current math curriculum)
+    - Number talk resource (if number talks are not in current math curriculum)
     - Worksheets for current topic
     - Math game resource
     - Materials needed for games (ex. Playing cards, dice, dry-erase sheets and markers)
