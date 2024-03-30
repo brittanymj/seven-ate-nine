@@ -15,4 +15,4 @@ This is also an opportunity to provide differentiation by posing a variation of 
 <img src="images/Assessment-1.png" style="width:700px;" alt="Assessment Interview"><br>
 <img src="images/Assessment-2.png" style="width:700px;" alt="Self Reflection"><br>
 
-[ADDITIONAL RESOURCES](additional-resources.html){: .btn .btn-blue }
+[NEXT STEP:Paperwork and Game Stations](independent-stations.html){: .btn .btn-blue }
