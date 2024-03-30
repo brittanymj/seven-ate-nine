@@ -13,3 +13,4 @@ Students will work independently at this station on worksheets that connect to t
 
 Students will play a game with their partner that connects to the current classroom mathematics content. It is recommended that the Math Teacher introduces the game on Day 1 before students move to their stations so that all students know the rules and objectives of the game.  
 
+[ADDITIONAL RESOURCES](additional-resources.html){: .btn .btn-blue }
