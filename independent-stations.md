@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3- Paperwork and Game Stations
+title: Paperwork and Game Stations
 nav_order: 5
 parent: Math Stations
 ---
