@@ -8,10 +8,6 @@ parent: Math Stations
 ## Station Design
 
 <img src="images/group-rotations.png" style="width:700px;" alt="Group Rotations">
-
-# iPad Station  
-
-The Tech Teacher leads a number talk and the students use virtual manipulatives on their iPads to solve the problem. The Tech Teacher will have the virtual manipulative site preloaded with suggestions of manipulatives for students to choose from. After the students have represented their thinking with the virtual manipulatives, the Tech Teacher will ensure they have taken a screenshot. The Tech Teacher will print the screenshot or post it to the student’s digital portfolio so that they can access it when they are in the self-reflection station the next day.  
  
 # Week 1: 
 Do not do a number talk at the iPad station – instead, give the students a chance to explore the virtual manipulatives. Use the reflection station for exploring physical manipulatives and/or doing traditional number talks until there is work to reflect upon.  
