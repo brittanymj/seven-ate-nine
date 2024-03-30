@@ -22,4 +22,4 @@ Through the math stations, students will develop core competencies in the areas 
 
 <img src="images/core-competencies.jpg" style="width:700px;" alt="Core Competencies"><br>
 
-[NEXT STEP: Learning Design](learning-design.html){: .btn .btn-blue }
+[NEXT STEP: Getting Started](activities-intro.html){: .btn .btn-blue }
