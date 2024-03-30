@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1- iPad Station 
+title: iPad Station 
 nav_order: 3
 parent: Math Stations
 ---
