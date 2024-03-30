@@ -20,8 +20,8 @@ parent: Math Stations
     - Worksheets for current topic
     - Math game resource
     - Materials needed for games (ex. Playing cards, dice, dry-erase sheets and markers)
-    - Reflection worksheet (see example)
-    - Station weekly plan (see example)
+    - Reflection worksheet 
+    - Station weekly plan 
     - Physical manipulatives
     - Select virtual manipulative sites (see choices) 
 - Prepare Students and Space 
