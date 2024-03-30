@@ -25,6 +25,7 @@ nav_order: 10
 - [Shuffling Into Math](https://www.amazon.ca/Shuffling-Into-Games-Kindergarten-Grade/dp/0968161324/ref=sr_1_1?crid=1PE8UDOG1H8XY&dib=eyJ2IjoiMSJ9.KEDeWxRdWk5rB-KL5cUlpLQSGrQad99h1wmlBDt8uMXGjHj071QN20LucGBJIEps.MZN0IbbezcHGrCW197uH8VU1ZA1u08y0uQoIEjxVbik&dib_tag=se&keywords=shuffling+into+math&qid=1710365583&sprefix=shuffling+into+math%2Caps%2C187&sr=8-1){:target="_blank"}
 - [Well-played](https://www.learningtreecanada.com/pembroke-publishing-well-played-building-m-9988469.html){:target="_blank"}
 - [Rolling into Math](https://creativemathematics.com/jane-felling/){:target="_blank"}
+
 ## Acknowledgements
 
 - [UBC Library Research Commons](https://github.com/ubc-library-rc/), for their assistance with the Jekyll template for GitHub Pages.
