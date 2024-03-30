@@ -1,9 +1,12 @@
 ---
 layout: default
-title: Learning Design
+title: Station Design 
 nav_order: 2
+parent: Math Stations
 ---
+
 ## Station Design
+
 <img src="images/group-rotations.png" style="width:700px;" alt="Group Rotations">
 
 # iPad Station  
