@@ -9,7 +9,12 @@ nav_order: 10
 ## Our suggested Virtual Manipulative
 - [Polypad by Amplify](https://polypad.amplify.com/p){:target="_blank"} 
 
-## Math and Technology Manipulatives
+## Our Theory and Design (UDL principles and One teach-one tech)
+- [Universal Design for Learning Guidelines](https://udlguidelines.cast.org/){:target="_blank"}
+- [Drelick, A. M., Damiani, M. L., & Elder, B. C. (2023). One Teach-One Tech: An Emerging Co-Teaching Strategy. Journal of Special Education Technology, 01626434231177869. https://doi.org/10.1177/01626434231177869](https://journals-sagepub-com.ezproxy.library.uvic.ca/doi/epub/10.1177/01626434231177869){:target="_blank"} 
+
+
+## Other Math and Technology Manipulatives
 - [The Math Learning Center](https://www.mathlearningcenter.org/apps){:target="_blank"}
 - [MathBot Manipulatives](https://mathsbot.com/manipulativeMenu){:target="_blank"}
 - [Didax Manipulatives](https://www.didax.com/math/virtual-manipulatives.html){:target="_blank"}
