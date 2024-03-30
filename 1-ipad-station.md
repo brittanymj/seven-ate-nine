@@ -15,12 +15,11 @@ You are at the zoo and it is very busy. This zoo has high fences around the anim
 The sign says that there are ostriches and buffalo in this pen and you count 32 legs. How many ostriches and how many buffalo could there be? 
 
 ## Some Virtual Manipulative Options with PolyPad
-<img src="images/vm-1.png" style="width:300px;" alt="Example 1"><br>
-<img src="images/vm-2.png" style="width:300px;" alt="Example 2"><br>
-<img src="images/vm-3.png" style="width:300px;" alt="Example 3"><br>
-<img src="images/vm-4.png" style="width:300px;" alt="Example 4"><br>
-<img src="images/vm-5.png" style="width:300px;" alt="Example 5"><br>
-<img src="images/vm-6.png" style="width:300px;" alt="Example 6"><br>
+<img src="images/vm-1.png" style="width:500px;" alt="Example 1"><img src="images/vm-2.png" style="width:500px;" alt="Example 2"><br>
+<img src="images/vm-3.png" style="width:500px;" alt="Example 3"><br>
+<img src="images/vm-4.png" style="width:500px;" alt="Example 4"><br>
+<img src="images/vm-5.png" style="width:500px;" alt="Example 5"><br>
+<img src="images/vm-6.png" style="width:500px;" alt="Example 6"><br>
 
 ## Some Differentiated Problems
 For students who have difficulty with flexible thinking:
