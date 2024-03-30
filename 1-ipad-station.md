@@ -22,18 +22,16 @@ The sign says that there are ostriches and buffalo in this pen and you count 32 
 <img src="images/vm-6.png" style="width:500px;" alt="Example 6"><br>
 
 ## Some Differentiated Problems
-For students who have difficulty with flexible thinking:
-Animals on the sign: Elephants
-Legs counted: 20
+For students who have difficulty with flexible thinking:<br>
+- Animals on the sign: Elephants
+- Legs counted: 20
 
-For students who need a challenge:
-Animals on the sign: Flamingos
-Legs counted: 67
+For students who need a challenge:<br>
+- Animals on the sign: Flamingos
+- Legs counted: 67
 
-Animals on the sign: Kangaroos
-Legs counted: 12
-Heads counted: 9
-
-
+Animals on the sign: Kangaroos<br>
+- Legs counted: 12
+- Heads counted: 9
 
 [NEXT STEP: Reflection Station](2-reflection-station.html){: .btn .btn-blue }
