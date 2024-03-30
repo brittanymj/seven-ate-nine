@@ -8,6 +8,8 @@ parent: Math Stations
 
 - Once you have established your partnership, you are ready to start setting up for your stations. Here are the steps you will need to take to get prepared: 
     - Assign roles of Tech-Teacher and Math Teacher (this can change after each unit or stay consistent throughout the partnership)
+    - To learn more about this One Teach-one Tech Co Teaching Strategy, you can visit this article: [Drelick, A. M., Damiani, M. L., & Elder, B. C. (2023). One Teach-One Tech: An Emerging Co-Teaching Strategy. Journal of Special Education Technology, 01626434231177869. https://doi.org/10.1177/01626434231177869](https://journals-sagepub-com.ezproxy.library.uvic.ca/doi/epub/10.1177/01626434231177869){:target="_blank"}
+  
 <img src="images/teachers.png" style="width:700px;" alt="Stations"><br>
 - Confirm days and times  
     - For stations (2 x 30 mins is ideal)
